@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "initializer_list": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "limits": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "system_error": "cpp"
+    }
+}

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642430409 source:c:\users\equipo\documents\proyectos codeblocks\game654\main.cpp
+	<iostream>
+	"funciones.h"
+
+1642432767 c:\users\equipo\documents\proyectos codeblocks\game654\funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+

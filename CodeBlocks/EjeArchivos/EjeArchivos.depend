@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651594891 source:c:\users\equipo\documents\proyectos codeblocks\ejearchivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clsEmpresas.h"
+
+1651596283 c:\users\equipo\documents\proyectos codeblocks\ejearchivos\clsempresas.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<cstring>
+

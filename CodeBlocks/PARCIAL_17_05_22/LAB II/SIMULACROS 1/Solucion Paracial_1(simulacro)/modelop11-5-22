@@ -1,0 +1,97 @@
+///Ejercicio:
+///Autor:DEK
+///Fecha:
+///Comentario:
+
+# include<iostream>
+# include<cstdlib>
+
+using namespace std;
+
+# include "clases.h"
+
+class MenoresNoInscriptos{
+    private:
+        int DNI;
+        char nombre[30], apellido[30];
+        bool estado;
+    public:
+        void setDNI(int d){DNI=d;}
+        void setDNI(int d){DNI=d;}
+        void setDNI(int d){DNI=d;}
+        int grabarEnDisco(){}
+
+};
+
+void punto1();
+    bool buscarInscripciones(int DNI);
+
+void punto2();
+
+int main(){
+    punto1();
+	cout<<endl;
+	system("pause");
+	return 0;
+}
+
+
+void punto1(){
+    Socio reg;
+    MenoNoInscripto aux;
+    int pos=0;
+    bool seInscribio;
+    while(reg.leerDeDisco(pos)==1){
+        if(reg.getTipo()==3){
+            seInscribio=buscarInscripciones(reg.getDNI());
+            if(seInscribio==false){
+                aux.setDNI(reg.getDNI());
+                aux.setNombre(reg.getNombre());
+                aux.setApellido(reg.getApellido());
+                aux.grabarEnDisco();
+            }
+        }
+        pos++;
+    }
+}
+
+bool buscarInscripciones(int DNI){
+    Inscripcion reg;
+    int pos=0;
+    while(reg.leerDeDisco(pos++)==1){
+        if(reg.getDNI()==DNI && reg.getFechaInscripcion().getAnio()==2020) return true;
+    }
+    return false;
+}
+/*
+int buscarInscripciones(int DNI){
+    Inscripcion reg;
+    int pos=0, cant=0;
+
+    while(reg.leerDeDisco(pos++)==1){
+        if(reg.getDNI()==DNI && reg.getFechaInscripcion().getAnio()==2020) cant++;
+    }
+    return cant;
+}
+*/
+
+void punto2(){
+    Socio reg;
+    int pos=0;
+    bool encontro;
+    while(reg.leerDeDisco(pos++)==1){
+        encontro=buscarInscripcionTemporal(reg.getDNI());
+        if(encontro==true){
+            reg.Mostrar();
+        }
+    }
+}
+
+bool buscarInscripcionTemporal(int DNI){
+    Inscripcion reg;
+    int pos=0;
+    while(reg.leerDeDisco(pos++)==1){
+        if(reg.getDNI()==DNI && reg.getFechaInscripcion().getAnio()==2021 && reg.getTipo()==1) return true;
+    }
+    return false;
+}

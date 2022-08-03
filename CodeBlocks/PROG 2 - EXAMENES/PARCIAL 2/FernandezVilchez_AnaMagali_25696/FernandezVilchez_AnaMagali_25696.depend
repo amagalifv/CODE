@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1656422485 source:c:\users\equipo\documents\proyectos codeblocks\prog - parcial 2\fernandezvilchez_anamagali_25696\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+	"parcial2.h"
+
+1655902982 c:\users\equipo\documents\proyectos codeblocks\prog - parcial 2\fernandezvilchez_anamagali_25696\parcial2.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cstring>
+

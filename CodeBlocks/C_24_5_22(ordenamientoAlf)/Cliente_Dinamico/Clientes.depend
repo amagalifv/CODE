@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1650550448 source:c:\users\danie\documents\curso ejemplos c\lab2\2022\2022 c1 jueves\clientes\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"cliente.h"
+	"func_clientes.h"
+
+1650548631 c:\users\danie\documents\curso ejemplos c\lab2\2022\2022 c1 jueves\clientes\fecha.h
+
+1650553499 c:\users\danie\documents\curso ejemplos c\lab2\2022\2022 c1 jueves\clientes\cliente.h
+
+1650553499 c:\users\danie\documents\curso ejemplos c\lab2\2022\2022 c1 jueves\clientes\func_clientes.h
+
+1651154567 source:c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"cliente.h"
+	"func_clientes.h"
+
+1650548631 c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes\fecha.h
+
+1650553499 c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes\cliente.h
+
+1651157848 c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes\func_clientes.h
+
+1653345109 source:c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes 21-04\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"cliente.h"
+	"func_clientes.h"
+
+1650548631 c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes 21-04\fecha.h
+
+1653345606 c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes 21-04\cliente.h
+
+1653344358 c:\users\kid\documents\laboratorio 2\2022\1c\jueves\clientes 21-04\func_clientes.h
+
+1653400613 source:c:\users\kid\documents\laboratorio 2\2022\clientes 21-04\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"cliente.h"
+	"func_clientes.h"
+
+1650548631 c:\users\kid\documents\laboratorio 2\2022\clientes 21-04\fecha.h
+
+1653400625 c:\users\kid\documents\laboratorio 2\2022\clientes 21-04\cliente.h
+
+1653400613 c:\users\kid\documents\laboratorio 2\2022\clientes 21-04\func_clientes.h
+

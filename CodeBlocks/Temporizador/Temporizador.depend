@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645468023 source:c:\users\equipo\documents\proyectos codeblocks\temporizador\src\temporizador.cpp
+	<iostream>
+	"Temporizador.h"
+
+1645470769 c:\users\equipo\documents\proyectos codeblocks\temporizador\include\temporizador.h
+
+1645467086 source:c:\users\equipo\documents\proyectos codeblocks\temporizador\main.cpp
+	<iostream>
+	"Temporizador.h"
+

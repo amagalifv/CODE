@@ -1,0 +1,9 @@
+package edu_it;
+
+public class ServicioA {
+	public  int a;
+	
+	public static void mutarIdentificadorA() {
+		a++;
+	}
+}

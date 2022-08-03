@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1652564786 source:c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<locale>
+	<windows.h>
+	"ArticuloGlobales.h"
+	"VentaGlobales.h"
+	"ClienteGlobales.h"
+	"ReporteGlobales.h"
+	"ConfiguracionGlobales.h"
+	"funciones.h"
+
+1652550252 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\articulo.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funciones.h"
+
+1652566056 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\funciones.h
+
+1652565527 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\articuloglobales.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Articulo.h"
+	"funciones.h"
+
+1652566148 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\ventaglobales.h
+	"Articulo.h"
+	"ArticuloGlobales.h"
+	"ClienteGlobales.h"
+	"Fecha.h"
+	"funciones.h"
+	"Venta.h"
+
+1652565670 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\clienteglobales.h
+	"Fecha.h"
+	"Cliente.h"
+
+1652563804 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\fecha.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"FechaGlobales.h"
+
+1652562132 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\fechaglobales.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1652561554 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\cliente.h
+	"Fecha.h"
+	"funciones.h"
+
+1652565815 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\venta.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Articulo.h"
+	"Fecha.h"
+	"funciones.h"
+	"Cliente.h"
+
+1652565815 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\reporteglobales.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ClienteGlobales.h"
+	"Venta.h"
+
+1652564780 c:\users\somyc - veronica\onedrive\utn\3 cuatrimestre 2022 onedrive\prog y labo ii\laboratorio ii\tp parcial\parcial_1\ventas\configuracionglobales.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Articulo.h"
+	"Venta.h"
+	"Cliente.h"
+

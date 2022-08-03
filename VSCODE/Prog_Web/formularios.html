@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formularios</title>
+    </head>
+
+    <body>
+        <h1>Formulario</h1>
+
+        <!-- action="" define la URL a donde va a mandar los datos del formulario -->
+        <form action="">
+            <h3>Ingrese sus datos</h3>
+            <input type="text" name="" placeholder="Nombre" required>
+            <!-- name para un lenguaje de P -->
+
+            <br><br>
+
+            <label for="LastName">Apellido</label>
+            <input type="text" id="LastName" required>
+
+            <br><br>
+
+            <label for="FeNac">Fecha de Nacimiento</label>
+            <input type="date" id="FeNac" required>
+
+            <br><br>
+
+            <label for="dni">DNI</label>
+            <input type="number" id="dni" minlength="7" maxlength="8" required>
+
+            <br><br>
+
+            <label for="mail">E-mail</label> 
+            <input type="mail" id="mail" required>
+
+            <br><br>
+
+            <input type="password" placeholder="Contraseña" required>
+
+            <br><br>
+
+            <input type="color">
+
+            <br><br>
+
+            <h4>Nacionalidad</h4>
+            <select name="" id="">
+                <option selected>Argentina</option>
+                <option>Otro</option>
+            </select>
+
+            <br><br><br>
+
+            <h4>Escoge el horario de tu turno</h4>
+            <label>
+                <input type="radio" name="Turno">Mañana
+            </label>
+            <label>
+                <input type="radio" name="Turno">Tarde
+            </label>
+            <label>
+                <input type="radio" name="Turno">Noche
+            </label>
+
+            <br><br>
+
+            <h4>Acepta Terminos y Condiciones</h4>
+            <label>
+                <input type="checkbox" name="" id="">
+            </label>
+
+            <br><br>
+
+            <h4>Deja tus comentarios</h4>
+            <textarea cols="60" rows="10"></textarea>
+
+            <br><br><br><br>
+
+            <input type="reset">     
+            <input type="submit">
+        </form>
+
+
+    </body>
+</html>

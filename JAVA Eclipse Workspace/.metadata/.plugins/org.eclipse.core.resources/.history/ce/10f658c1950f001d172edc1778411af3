@@ -1,0 +1,15 @@
+package edu_it;
+
+public class U1_Clase2_B {
+
+		
+	public static void main(String[] args) {
+		
+		var s = new ServicioA();
+		var h = new ServicioA();
+		
+		s.a=10;
+		System.out.println(h.a);
+	}
+
+}

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651601142 source:c:\users\equipo\documents\proyectos codeblocks\articulo_5-4\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"clsArticulo.h"
+	"funciones.h"
+
+1651602060 c:\users\equipo\documents\proyectos codeblocks\articulo_5-4\clsarticulo.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1651602060 c:\users\equipo\documents\proyectos codeblocks\articulo_5-4\funciones.h
+

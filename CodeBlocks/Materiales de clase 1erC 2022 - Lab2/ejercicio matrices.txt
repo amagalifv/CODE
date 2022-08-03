@@ -1,0 +1,12 @@
+Hacer un proyecto de codeblocks que tenga un menu con una opcion para la carga de una matriz de 10x10 elementos y que resuelva al menos 4 de los ejercicios de la guia de repaso bajo el titulo de matrices (cada uno en una opcion diferente).
+
+Matrices
+1. Hacer una función que reciba como parámetros una matriz de enteros de 10x10 y un número entero (entre 0 y 9), y devuelva el máximo de la fila indicada por el segundo parámetro.
+
+2. Hacer una función que reciba como parámetros una matriz de enteros de 10x10 y un número entero (entre 0 y 9), y devuelva la posición que ocupa el máximo en la fila indicada por el segundo parámetro.
+
+3. Hacer una función que reciba como parámetros una matriz de enteros de 10x10 y un número entero (entre 0 y 9), y devuelva la suma de todos los componentes de la columna indicada por el segundo parámetro.
+
+4. Hacer una función que reciba como parámetros una matriz de enteros de 10x10 y un número entero (entre 0 y 9), y devuelva la cantidad de componentes positivos de la columna indicada por el segundo parámetro.
+
+5. Hacer una función que reciba como parámetros una matriz de enteros de 10x10, y devuelva la suma de todos los componentes de la matriz.

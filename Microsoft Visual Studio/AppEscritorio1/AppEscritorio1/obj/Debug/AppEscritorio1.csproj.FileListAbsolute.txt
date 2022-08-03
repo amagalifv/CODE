@@ -1,0 +1,11 @@
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\bin\Debug\AppEscritorio1.exe.config
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\bin\Debug\AppEscritorio1.exe
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\bin\Debug\AppEscritorio1.pdb
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.csproj.AssemblyReference.cache
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.Form1.resources
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.Properties.Resources.resources
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.csproj.GenerateResource.cache
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.csproj.CoreCompileInputs.cache
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.exe
+D:\CODE\Microsoft Visual Studio\AppEscritorio1\AppEscritorio1\obj\Debug\AppEscritorio1.pdb

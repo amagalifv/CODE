@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1652749473 source:c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"prototipos.h"
+	"clsFecha.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+	"Func.h"
+	"funcCli.h"
+	"funcArt.h"
+	"funcVent.h"
+	"FuncConfig.h"
+	"FuncRepor.h"
+
+1652744795 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\prototipos.h
+
+1652744624 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\clsfecha.h
+	<iostream>
+	<cstdlib>
+
+1657807340 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\clscliente.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clsFecha.h"
+
+1657807340 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\clsarticulo.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1657807368 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\clsventas.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1652731722 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\func.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+
+1652739224 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\funccli.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+
+1652739725 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\funcart.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsArticulo.h"
+
+1652751427 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\funcvent.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsFecha.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1652751394 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\funcconfig.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1652642176 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\zip antiguos\ventas\funcrepor.h
+

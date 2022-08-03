@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1652749473 source:c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"prototipos.h"
+	"clsFecha.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+	"Func.h"
+	"funcCli.h"
+	"funcArt.h"
+	"funcVent.h"
+	"FuncConfig.h"
+	"FuncRepor.h"
+
+1652744795 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\prototipos.h
+
+1652744624 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\clsfecha.h
+	<iostream>
+	<cstdlib>
+
+1652790074 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\clscliente.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clsFecha.h"
+
+1652790074 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\clsarticulo.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1652790068 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\clsventas.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1652731722 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\func.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+
+1652739224 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\funccli.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+
+1652739725 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\funcart.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsArticulo.h"
+
+1652751427 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\funcvent.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsFecha.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1652751394 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\funcconfig.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1652642176 c:\users\equipo\documents\proyectos codeblocks\parcial_1\ventas con reportes\ventas\funcrepor.h
+
+1657805555 source:c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"prototipos.h"
+	"clsFecha.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+	"Func.h"
+	"funcCli.h"
+	"funcArt.h"
+	"funcVent.h"
+	"FuncConfig.h"
+	"FuncRepor.h"
+	"parcial_FernandezVilchez.h"
+
+1657802306 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\prototipos.h
+
+1652744624 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\clsfecha.h
+	<iostream>
+	<cstdlib>
+
+1657804730 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\clscliente.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"clsFecha.h"
+
+1652795921 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\clsarticulo.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1657803615 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\clsventas.h
+	<cstring>
+	<iostream>
+	<cstdio>
+
+1652731722 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\func.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+
+1652739224 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\funccli.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+
+1652739725 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\funcart.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsArticulo.h"
+
+1652751427 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\funcvent.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsFecha.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1657802485 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\funcconfig.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1657805440 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\funcrepor.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"prototipos.h"
+	"clsCliente.h"
+	"clsArticulo.h"
+	"clsVentas.h"
+
+1657805664 c:\users\equipo\documents\proyectos codeblocks\parcial_17_05_22\lab ii\ventas con reportes\ventas\parcial_fernandezvilchez.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"prototipos.h"
+	"clsVentas.h"
+	"funcVent.h"
+
