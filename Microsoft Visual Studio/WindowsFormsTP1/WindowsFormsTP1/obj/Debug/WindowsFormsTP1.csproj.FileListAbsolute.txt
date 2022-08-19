@@ -1,0 +1,14 @@
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\bin\Debug\WindowsFormsTP1.exe.config
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\bin\Debug\WindowsFormsTP1.exe
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\bin\Debug\WindowsFormsTP1.pdb
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.csproj.AssemblyReference.cache
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.Form1.resources
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.Properties.Resources.resources
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.csproj.GenerateResource.cache
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.csproj.CoreCompileInputs.cache
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.exe
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.pdb
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.FormEje1.resources
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.FormEje2.resources
+D:\CODE\Microsoft Visual Studio\WindowsFormsTP1\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.FormEje3.resources
