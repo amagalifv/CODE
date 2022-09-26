@@ -1,0 +1,7 @@
+SELECT Nombre_CLI,Apellido_CLI
+FROM Clientes
+WHERE Nombre_CLI LIKE '[^A]e%'
+
+SELECT Nombre_CLI,Apellido_CLI
+FROM Clientes
+WHERE Nombre_CLI LIKE '[^SD]%'
