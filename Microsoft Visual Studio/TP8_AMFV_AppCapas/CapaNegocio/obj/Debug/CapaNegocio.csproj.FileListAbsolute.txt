@@ -1,0 +1,11 @@
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\bin\Debug\CapaDao.dll
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\bin\Debug\CapaDao.pdb
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaNegocio\obj\Debug\CapaNegocio.pdb

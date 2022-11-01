@@ -1,0 +1,7 @@
+Para Validators agregar:
+
+Dentro de label configuration:
+
+<appSettings>
+    <add key="ValidationSettings:UnobtrusiveValidationMode" value="None"></add>
+  </appSettings>

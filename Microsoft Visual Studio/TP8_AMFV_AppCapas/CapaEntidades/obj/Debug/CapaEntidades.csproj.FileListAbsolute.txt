@@ -1,0 +1,6 @@
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\CODE\Microsoft Visual Studio\TP8_AMFV_AppCapas\CapaEntidades\obj\Debug\CapaEntidades.pdb

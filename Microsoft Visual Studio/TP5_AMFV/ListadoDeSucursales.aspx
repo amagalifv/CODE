@@ -61,7 +61,12 @@
             </tr>
         </table>
         <br />
-        <asp:GridView ID="gwTabla" runat="server">
+        <asp:GridView ID="gwTabla" runat="server" AutoGenerateColumns="False">
+            <Columns>
+                <asp:TemplateField HeaderText="Id_Sucursal"></asp:TemplateField>
+                <asp:TemplateField HeaderText="Nombre_Sucursal"></asp:TemplateField>
+                <asp:TemplateField HeaderText="Descripcion_Sucursal"></asp:TemplateField>
+            </Columns>
         </asp:GridView>
     </form>
 </body>
